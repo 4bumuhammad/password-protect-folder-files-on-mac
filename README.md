@@ -16,6 +16,24 @@
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_003.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_004.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_005.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
