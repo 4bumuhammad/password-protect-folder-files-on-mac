@@ -34,6 +34,54 @@
 
 &nbsp;
 
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_006.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_007.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_008_censor.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_009_censor.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_010.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_011.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_012.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_013.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
