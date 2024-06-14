@@ -2,6 +2,12 @@
 
 &nbsp;
 
+**EXAMPLE STEPS FOR APPLYING IT ON A MACBOOK M1 DEVICE**
+
+<div align="center">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_001.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+</div> 
+
 &nbsp;
 
 &nbsp;
