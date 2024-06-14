@@ -11,7 +11,7 @@
 &nbsp;
 
 <div align="center">
-    <img src="./gambar-petunjuk/ss_passwordprotectfolder_002_x600.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
+    <img src="./gambar-petunjuk/ss_passwordprotectfolder_002.png" alt="ss_passwordprotectfolder" style="display: block; margin: 0 auto;">
 </div> 
 
 &nbsp;
